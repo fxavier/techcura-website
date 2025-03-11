@@ -144,7 +144,7 @@ export function ContactSection() {
             <ContactInfoCard
               icon={<MapPin className='h-6 w-6' />}
               title='Endereço'
-              content='Avenida Mao-Tse-Tung, Maputo, Moçambique'
+              content='Rua Kamba Simango Numero370 r/c, Bairro da Sommerchield, Maputo, Moçambique'
             />
           </div>
         </div>
